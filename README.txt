@@ -1,3 +1,3 @@
-Hello from README file.
+Hello from README file, css assignments.
 This Assignments folder contains HTML files.
 Bye
