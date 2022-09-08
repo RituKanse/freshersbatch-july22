@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Management System", "Hotel Management System\Hotel Management System.csproj", "{8CA9B95A-DDF1-40FF-94E7-36A54DFD7E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS Data Access", "HMS Data Access\HMS Data Access.csproj", "{3DF7211A-3472-485A-B356-92E6C3269B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA9B95A-DDF1-40FF-94E7-36A54DFD7E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA9B95A-DDF1-40FF-94E7-36A54DFD7E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA9B95A-DDF1-40FF-94E7-36A54DFD7E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA9B95A-DDF1-40FF-94E7-36A54DFD7E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF7211A-3472-485A-B356-92E6C3269B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF7211A-3472-485A-B356-92E6C3269B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF7211A-3472-485A-B356-92E6C3269B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF7211A-3472-485A-B356-92E6C3269B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D480D59A-F8E3-4ABE-96AB-CF8DEB44CE9A}
+	EndGlobalSection
+EndGlobal

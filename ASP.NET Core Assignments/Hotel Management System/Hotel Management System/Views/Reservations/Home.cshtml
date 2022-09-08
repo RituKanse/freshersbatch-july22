@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Reservations</h1>
+<h1>BILLS</h1>
+<ul>
+    <li><a asp-action="Index" asp-controller="Reservations">Reservations</a></li>
+    <li><a asp-action="Create" asp-controller="Reservations">Add a Reservation</a></li>
+    <li><a asp-action="Index" asp-controller="Role">HMS Home Page</a></li>
+    <li><a asp-action="ManagerIndex" asp-controller="Role">HMS ManagerHome Page</a></li>
+    <li><a asp-action="ReceptionistIndex" asp-controller="Role">HMS ReceptionistHome Page</a></li>
+</ul>
+
+

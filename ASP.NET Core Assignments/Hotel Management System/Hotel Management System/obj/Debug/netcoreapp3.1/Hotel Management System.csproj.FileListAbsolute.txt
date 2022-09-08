@@ -1,0 +1,408 @@
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\appsettings.json
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.exe
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.deps.json
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.runtimeconfig.json
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.runtimeconfig.dev.json
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.pdb
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.Views.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.Views.pdb
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.csproj.AssemblyReference.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.AssemblyInfoInputs.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.AssemblyInfo.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.csproj.CoreCompileInputs.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorAssemblyInfo.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorAssemblyInfo.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\staticwebassets\Hotel Management System.StaticWebAssets.Manifest.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.TagHelpers.input.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.TagHelpers.output.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorCoreGenerate.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorTargetAssemblyInfo.cache
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorTargetAssemblyInfo.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.Views.pdb
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.csproj.CopyComplete
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.dll
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.pdb
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.genruntimeconfig.cache
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\HMS Data Access.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\HMS Data Access.pdb
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserLogin.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserView.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Create.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Delete.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Details.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Edit.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\Home.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\ManagerIndex.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\ReceptionistIndex.cshtml.g.cs
+D:\training\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.exe
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.deps.json
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.runtimeconfig.json
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.runtimeconfig.dev.json
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.pdb
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.Views.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Hotel Management System.Views.pdb
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\HMS Data Access.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\bin\Debug\netcoreapp3.1\HMS Data Access.pdb
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.AssemblyInfoInputs.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.AssemblyInfo.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorAssemblyInfo.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorAssemblyInfo.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\staticwebassets\Hotel Management System.StaticWebAssets.Manifest.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.TagHelpers.input.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.TagHelpers.output.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorCoreGenerate.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\GuestDetails\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserLogin.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserView.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Rates\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\ManagerIndex.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Role\ReceptionistIndex.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\RoomDetails\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Create.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Delete.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Details.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Edit.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Home.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\StaffDetails\Index.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorTargetAssemblyInfo.cache
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.RazorTargetAssemblyInfo.cs
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.Views.pdb
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.csproj.CopyComplete
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.dll
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.pdb
+C:\Users\ABC\Downloads\Hotel Management System\Hotel Management System\obj\Debug\netcoreapp3.1\Hotel Management System.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+﻿@model HMS_Data_Access.HMSModels.Rates
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Rates</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="RateId" />
+            <div class="form-group">
+                <label asp-for="FirstNightPrice" class="control-label"></label>
+                <input asp-for="FirstNightPrice" class="form-control" />
+                <span asp-validation-for="FirstNightPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExtensionPrice" class="control-label"></label>
+                <input asp-for="ExtensionPrice" class="form-control" />
+                <span asp-validation-for="ExtensionPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" asp-controller="Role">HMS Home Page</a>
+</div>
+
